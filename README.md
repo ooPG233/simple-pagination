@@ -1,5 +1,5 @@
 # pagination
-
+一个简陋的分页组件，具备分页，跳页，上/下页切换的功能，使用前请确保本地配置支持less预编译器。
 ## Project setup
 ```
 npm install
